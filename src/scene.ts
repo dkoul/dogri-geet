@@ -5,7 +5,7 @@
 
 import type { TrackMood } from './data/tracks';
 import heroFolkUrl from './assets/hero-folk.jpg';
-import heroMatadorUrl from './assets/hero.jpg';
+import heroMatadorUrl from './assets/hero-matador.jpg';
 
 export const TAGLINE = 'Jammu songs from the Duggar hills — folk, matador, and memory.';
 
@@ -20,7 +20,7 @@ const HERO_BY_MOOD: Record<
   },
   matador: {
     src: heroMatadorUrl,
-    alt: 'Sunlit ridges of the Duggar hills under a wide Jammu sky',
+    alt: 'Inside a Jammu Matador minibus at golden hour, riders and city light through the windows',
     position: '50% 45%',
   },
 };

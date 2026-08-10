@@ -20,4 +20,6 @@ npm run preview
 
 Hand-curated IDs live in `src/data/tracks.ts`. Filter chips: **Folk** / **Matador**.
 
+Folk pulls from [Dogri songs playlist](https://music.youtube.com/playlist?list=PL7MEzGAkzNoXR3J-1hw-3ZxMAVWCOdMcE).
+
 Matador pulls from [Jammu matador vol 1](https://music.youtube.com/playlist?list=PLaFMODhciZxbIke0bpzFLaK-BQXyFL1Ua).
