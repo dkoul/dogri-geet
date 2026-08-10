@@ -16,14 +16,28 @@
 | Jaane Mariye | Unexplored Duggar | `bvsDRkwlkgY` |
 | Banga Leyai De | Varsha Jamwal | `6ivkZUp4dX8` |
 
-## Matador
+## Matador — Jammu matador vol 1
 
-Jammu city ride energy — the Matador anthem plus speaker-culture Dogri hits.
+Source playlist: https://music.youtube.com/playlist?list=PLaFMODhciZxbIke0bpzFLaK-BQXyFL1Ua  
+Innertube-listed 2026-08-10 (18 entries; unplayable IDs auto-skip).
 
 | Track | Artist | YouTube ID |
 |-------|--------|------------|
-| Jammu Di Matador | HH Studios | `l5GXKSoJSTw` |
-| Speaker Bajda | Varsha Jamwal · Kuldeep Hans | `TwbbAFmHsm0` |
-| Speaker Di Bass | Vanshika Jaral | `LdmwT6fUJCM` |
-| Tere Kanne Nai Bolna | Varsha Jamwal · Satish Bhagat | `w21_8uC2PJo` |
-| Chali Jana | Rohit Kumar | `G4dsPpH6mDg` |
+| Nazron Ton Gir Gayee | Jaidev Kumar · Charanjit Ahuja | `U3qfcGk4TZs` |
+| Khat Tukde Tukde | Sardool Sikander | `MFfzEnE6reY` |
+| Dil Ditta Nahin Si | Nachhattar Gill | `L29D9K0OFEI` |
+| Vaadeyan Ton Mukri | Nachhattar Gill | `8CXyDLSQ8d0` |
+| Saadi Jaan Te | Nachhattar Gill | `3YPFXs3SNGo` |
+| Tutde Ne Tare | Nachhattar Gill | `9IWdAG5Ye3g` |
+| Kachi Pencil Naal | Akram Rahi · Naseebo Lal | `E1S8UnNCu2M` |
+| Tu Badli | Master Saleem | `qAdNcu7V0OQ` |
+| Rukhan Wangoo Khade Rahe | Sabar Koti | `q0P3mKHG2ak` |
+| Kalli Baih Ke | Manmohan Waris | `rOZt1HWk7oo` |
+| Keemat (Tenu Apni Keemat Pata Nahi) | Sabar Koti | `GB83V8BJ7wE` |
+| Assi Kehrha Tere Bina | Kanth Kaler | `nHvKmxO1yPE` |
+| Khat More Ke Kehni Aen | Harbhajan Shera | `kkRQ1hNfJJk` |
+| Tara Ambran Te | Sabar Koti | `13g51uxjGqs` |
+| Chite Suit Te Daag Pe Gaye | Aadi Music World | `XoznVLresrs` |
+| Sili Sili Hawa | Hans Raj Hans | `Ht5l1ojaaLU` |
+| Tum To Thehre Pardesi | Altaf Raja | `uDkPqtj80Rs` |
+| Chham Chham | Harbhajan Mann · Jaidev Kumar | `3LAPVRtWbJg` |
