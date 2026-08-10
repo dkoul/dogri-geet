@@ -15,7 +15,8 @@ const CHIP_ORDER: TrackMood[] = ['folk', 'matador'];
 export function renderChips(
   chipsEl: HTMLElement,
   tracks: Track[],
-  queue: QueueController
+  queue: QueueController,
+  onFilterChange?: (mood: TrackMood) => void
 ): void {
   const moodsWithTracks = CHIP_ORDER.filter((m) => tracks.some((t) => t.mood === m));
 
@@ -32,6 +33,7 @@ export function renderChips(
         .querySelectorAll('button')
         .forEach((b) => b.setAttribute('aria-pressed', 'false'));
       btn.setAttribute('aria-pressed', 'true');
+      onFilterChange?.(mood);
     });
     chipsEl.appendChild(btn);
   }

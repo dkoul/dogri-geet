@@ -24,6 +24,11 @@
   /* Gentle drift — keep radio + interior frame in view */
   animation: scene-ken 32s ease-in-out infinite alternate;
   transform-origin: 50% 45%;
+  transition: opacity 180ms ease;
+}
+
+.scene__image--swap {
+  opacity: 0;
 }
 
 @keyframes scene-ken {
